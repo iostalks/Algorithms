@@ -1,6 +1,6 @@
 ## Array
 
-[Two Sum](./TwoSum)
+[1.Two Sum(两数之和)](./TwoSum)
 
-[Three Sum](./ThreeSum)
+[2.Three Sum(三数之和)](./ThreeSum)
 
