@@ -5,7 +5,7 @@
 ### 数据结构
 
 - 线性表
-	- 数组
+	- [数组](https://github.com/iostalks/Algorithms/tree/master/Array)
 		- [数组：为什么很多编程语言中数组都从0开始编号？](https://time.geekbang.org/column/article/40961)
 	- 链表
 		- [链表（上）：如何实现LRU缓存淘汰算法?](https://time.geekbang.org/column/article/41013)
