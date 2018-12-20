@@ -5,7 +5,7 @@
 ### 数据结构
 
 - 线性表
-	- [数组](https://github.com/iostalks/Algorithms/tree/master/Array)
+	- [数组](Array/)
 		- [数组：为什么很多编程语言中数组都从0开始编号？](https://time.geekbang.org/column/article/40961)
 	- 链表
 		- [链表（上）：如何实现LRU缓存淘汰算法?](https://time.geekbang.org/column/article/41013)
@@ -55,8 +55,8 @@
 	- 二分查找
 		- [二分查找（上）：如何用最省内存的方式实现快速查找功能？](https://time.geekbang.org/column/article/42520)
 		- [二分查找（下）：如何快速定位IP对应的省份地址？](https://time.geekbang.org/column/article/42733)
-- 搜索
-	- [深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
+    - 广度、深度优先搜索
+    	- [深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
 - 哈希算法
 	- [哈希算法（上）：如何防止数据库中的用户信息被脱库？](https://time.geekbang.org/column/article/65312)
 	- [哈希算法（下）：哈希算法在分布式系统中有哪些应用？](https://time.geekbang.org/column/article/67388)
@@ -78,22 +78,3 @@
         - [分治算法：谈一谈大规模计算框架MapReduce中的分治思想](https://time.geekbang.org/column/article/73503)
 	- 动态规划
 	- 回溯算法
-
-.
-+-- _config.yml
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
