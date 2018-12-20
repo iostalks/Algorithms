@@ -1,5 +1,5 @@
 # Fizz Buzz
-LeetCode 169
+LeetCode 412
 [English](https://leetcode.com/problems/fizz-buzz/)
 [中文](https://leetcode-cn.com/problems/fizz-buzz/)
 
