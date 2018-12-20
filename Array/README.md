@@ -1,3 +1,6 @@
 ## Array
 
-Two Sum
+[Two Sum](./TwoSum)
+
+[Three Sum](./ThreeSum)
+
