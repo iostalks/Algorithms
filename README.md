@@ -1,11 +1,11 @@
 # Algorithms
 
-## 《数据结构与算法之美》专栏导航
+## [《数据结构与算法之美》](http://t.cn/EvWJWn4)专栏导航
 
 ### 数据结构
 
 - 线性表
-	- 数组
+	- [数组](Array/)
 		- [数组：为什么很多编程语言中数组都从0开始编号？](https://time.geekbang.org/column/article/40961)
 	- 链表
 		- [链表（上）：如何实现LRU缓存淘汰算法?](https://time.geekbang.org/column/article/41013)
@@ -55,8 +55,8 @@
 	- 二分查找
 		- [二分查找（上）：如何用最省内存的方式实现快速查找功能？](https://time.geekbang.org/column/article/42520)
 		- [二分查找（下）：如何快速定位IP对应的省份地址？](https://time.geekbang.org/column/article/42733)
-- 搜索
-	- [深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
+    - 广度、深度优先搜索
+    	- [深度和广度优先搜索：如何找出社交网络中的三度好友关系？](https://time.geekbang.org/column/article/70891)
 - 哈希算法
 	- [哈希算法（上）：如何防止数据库中的用户信息被脱库？](https://time.geekbang.org/column/article/65312)
 	- [哈希算法（下）：哈希算法在分布式系统中有哪些应用？](https://time.geekbang.org/column/article/67388)
