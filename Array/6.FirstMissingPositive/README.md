@@ -28,4 +28,4 @@ LeetCode 41
 ## 代码实现
 | C | C++ | Java | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | [😀](FirstMissingPositive) | 🤔 | 🤔 | 🤔 |
+| 🤔 | 🤔 | 🤔 | [😀](FirstMissingPositive.py) | 🤔 | 🤔 | 🤔 |
