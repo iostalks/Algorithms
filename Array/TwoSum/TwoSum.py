@@ -1,3 +1,4 @@
+# O(n)
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -11,4 +12,5 @@ class Solution(object):
             y = target - x
             if y in numberIndexDict:
                 return [numberIndexDict[y], i]
+            # 存下标
             numberIndexDict[x] = i
