@@ -11,3 +11,5 @@
 [5. Merge Sorted Array（合并两个有序数组）](./5.MergeSortedArray)
 
 [6. First Missing Positive（寻找缺失的最小正数）](./6.FirstMissingPositive)
+
+[7. Kth Largest Element in an Array（查找第K大的数）](./7.KthLargestElement)
