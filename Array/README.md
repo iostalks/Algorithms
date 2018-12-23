@@ -13,3 +13,7 @@
 [6. First Missing Positive（寻找缺失的最小正数）](./6.FirstMissingPositive)
 
 [7. Kth Largest Element in an Array（查找第K大的数）](./7.KthLargestElement)
+
+[8. Single Number（数组中只出现一次的数）](./8.SingleNnumber)
+
+[9. Find All Duplicates in an Array（数组中重复的数字）]()
