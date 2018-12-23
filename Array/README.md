@@ -16,4 +16,6 @@
 
 [8. Single Number（数组中只出现一次的数）](./8.SingleNnumber)
 
-[9. Find All Duplicates in an Array（数组中重复的数字）]()
+[9. Find All Duplicates in an Array（数组中重复的数字）](./9.FindAllDuplicates)
+
+[10. Sort Color（三色分类）](./10.SortColor)
