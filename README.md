@@ -76,5 +76,6 @@
 		- [贪心算法：如何用贪心算法实现Huffman压缩编码？](https://time.geekbang.org/column/article/73188)
     - 分治算法
         - [分治算法：谈一谈大规模计算框架MapReduce中的分治思想](https://time.geekbang.org/column/article/73503)
-	- 动态规划
 	- 回溯算法
+        - [回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想](https://time.geekbang.org/column/article/74287)
+	- 动态规划

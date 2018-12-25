@@ -7,3 +7,7 @@
 [03. Linked List Cycle II（检测链表是否有环II）](./03.LinkedListCycle2)
 
 [04. Merge Two Sorted Lists（合并两个有序链表）](./04.MergeSortedLists)
+
+[05. Reverse Nodes in k-Group（以 k 为一组反转链表）](./05.ReverseNodesKGroup)
+
+[]
