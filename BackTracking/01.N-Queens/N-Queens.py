@@ -12,7 +12,7 @@ class Solution(object):
         for col in range(n):
             if self.isValid(nQueens, row, col, n):
                 # 放 Q
-                strList = list(nQueens[row]) # 现将字符串转为 list，再修改
+                strList = list(nQueens[row]) # 先将字符串转为 list，再修改
                 strList[col] = 'Q'
                 nQueens[row] = ''.join(strList)
                 self.dfs(nQueens, row+1, n)
