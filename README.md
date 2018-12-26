@@ -5,14 +5,14 @@
 ### 数据结构
 
 - 线性表
-	- [数组](Array/)
+	- [数组](./Array)
 		- [数组：为什么很多编程语言中数组都从0开始编号？](https://time.geekbang.org/column/article/40961)
-	- 链表
+	- [链表](./LinkedList)
 		- [链表（上）：如何实现LRU缓存淘汰算法?](https://time.geekbang.org/column/article/41013)
 		- [链表（下）：如何轻松写出正确的链表代码？](https://time.geekbang.org/column/article/41149)
-	- 栈
+	- [栈](./Stack)
 		- [栈：如何实现浏览器的前进和后退功能？](https://time.geekbang.org/column/article/41222)
-	- 队列
+	- [队列](./Queue)
 		- [队列：队列在线程池等有限资源池中的应用](https://time.geekbang.org/column/article/41330)
 	- 跳表
 		- [跳表：为什么Redis一定要用跳表来实现有序集合？](https://time.geekbang.org/column/article/42896)
