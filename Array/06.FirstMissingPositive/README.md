@@ -23,7 +23,7 @@ LeetCode 41
 你的算法的时间复杂度应为O(n)，并且只能使用常数级别的空间。
 
 ## 思路
-😀
+
 
 ## 代码实现
 | C | C++ | Java | Python | JavaScript | Go | PHP |

@@ -17,7 +17,10 @@ LeetCode 1
 ```
 
 ## 思路
+<details>
+<summary>点击展开</summary>
 借助散列表存储访问过元素的值和下标，时间复杂度 O(n)。
+</details>
 
 ## 代码实现
 | C | C++ | Java | Python | JavaScript | PHP |
