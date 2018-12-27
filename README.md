@@ -21,7 +21,7 @@
 		- [散列表（中）：如何打造一个工业级水平的散列表？](https://time.geekbang.org/column/article/64586)
 		- [散列表（下）：为什么散列表和链表经常会一起使用？](https://time.geekbang.org/column/article/64858)
 - 树
-	- 二叉树
+	- [二叉树](./BinaryTree)
 		- [二叉树基础（上）：什么样的二叉树适合用数组来存储？](https://time.geekbang.org/column/article/67856)
 		- [二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？](https://time.geekbang.org/column/article/68334)
 	- 平衡二叉树
