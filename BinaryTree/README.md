@@ -8,10 +8,12 @@
 
 [04. Maximum Depth of Binary Tree（二叉树的最大深度）](./04.MaximumDepthOfBinaryTree)
 
-[05. Balanced Binary Tree（平衡二叉树）](./05.BalancedBinaryTree)
+[05. Balanced Binary Tree（判断平衡二叉树）](./05.BalancedBinaryTree)
 
 [06. Validate Binary Search Tree（验证二叉查找树）](./06.ValidateBinarySearchTree)
 
 [07. Convert Sorted List to Binary Search Tree（有序链表转换二叉查找树）](./07.ConvertSortedListToBinarySearchTree)
 
 [08. Flatten Binary Tree to Linked List（二叉树展开为链表）](./08.FlattenBinaryTreeToLinkedList)
+
+[09. Binary Tree Zigzag Level Order Traversal（二叉树的锯齿形层次遍历）](./09.BinaryTreeLevelTraversal)
