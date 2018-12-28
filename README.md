@@ -40,7 +40,7 @@
 - 复杂度分析
 	- [复杂度分析（上）：如何分析算法的执行效率和资源消耗](https://time.geekbang.org/column/article/40036)
 	- [复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度](https://time.geekbang.org/column/article/40447)
-- 排序
+- [排序](./Sort)
 	- 冒泡排序、插入排序、选择排序
 		- [排序（上）：为什么插入排序比冒泡排序更受欢迎？](https://time.geekbang.org/column/article/41802)
 	- 归并排序、快速排序
@@ -79,3 +79,4 @@
 	- 回溯算法
         - [回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想](https://time.geekbang.org/column/article/74287)
 	- 动态规划
+        - [初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？](https://time.geekbang.org/column/article/74788)
