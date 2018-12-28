@@ -80,3 +80,9 @@
         - [回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想](https://time.geekbang.org/column/article/74287)
 	- 动态规划
         - [初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？](https://time.geekbang.org/column/article/74788)
+
+### 福利
+    - [不定期福利第一期 | 数据结构与算法学习书单](https://time.geekbang.org/column/article/40681)
+    - [不定期福利第二期 | 王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫](https://time.geekbang.org/column/article/69607)
+    - [不定期福利第三期 | 测一测你的算法阶段学习成果](https://time.geekbang.org/column/article/73786)
+    - [不定期福利第四期 | 刘超：我是怎么学习《数据结构与算法之美》的？](https://time.geekbang.org/column/article/75197)
