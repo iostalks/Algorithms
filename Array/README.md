@@ -18,4 +18,3 @@
 
 [09. Find All Duplicates in an Array（数组中重复的数字）](./09.FindAllDuplicates)
 
-[10. Sort Colors（三色分类）](./10.SortColors)
