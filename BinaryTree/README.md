@@ -17,3 +17,9 @@
 [08. Flatten Binary Tree to Linked List（二叉树展开为链表）](./08.FlattenBinaryTreeToLinkedList)
 
 [09. Binary Tree Zigzag Level Order Traversal（二叉树的锯齿形层次遍历）](./09.BinaryTreeLevelTraversal)
+
+[10. Find Largest Value in Each Tree Row（在每个树行中找最大值）](./10.FindLargestValue)
+
+[11. Path Sum（路径总和）](./11.PathSum)
+
+[12. Convert Sorted Array to Binary Search Tree（将有序数组转换为二叉搜索树）](./12.ConvertToBinarySearchTree)
