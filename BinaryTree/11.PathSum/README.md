@@ -1,5 +1,5 @@
 # Path Sum（路径总和）
-LeetCode
+LeetCode 112
 [English](https://leetcode.com/problems/path-sum/)
 [中文](https://leetcode-cn.com/problems/path-sum/)
 
