@@ -1,4 +1,4 @@
-# Sort Colors
+# Sort Colors（颜色分类）
 LeetCode 75
 [English](https://leetcode.com/problems/sort-colors/)
 [中文](https://leetcode-cn.com/problems/sort-colors/)
@@ -16,12 +16,11 @@ LeetCode 75
 输入: [2,0,2,1,1,0]
 输出: [0,0,1,1,2,2]
 ```
-
 进阶：
+
 - 一个直观的解决方案是使用计数排序的两趟扫描算法。
 首先，迭代计算出0、1 和 2 元素的个数，然后按照0、1、2的排序，重写当前数组。
 - 你能想出一个仅使用常数空间的一趟扫描算法吗？
-
 ## 思路
 <details>
 <summary>点击展开</summary>
@@ -33,4 +32,3 @@ LeetCode 75
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
 
-完成 😀，待完成 🤔
