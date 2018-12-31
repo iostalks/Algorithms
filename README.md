@@ -31,7 +31,7 @@
 	- 堆
 		- [堆和堆排序：为什么说堆排序没有快速排序快？](https://time.geekbang.org/column/article/69913)
 		- [堆的应用：如何快速获取到Top 10最热门的搜索关键词？](https://time.geekbang.org/column/article/70187)
-- 图
+- [图](./Graph)
     - 无向图、有向图、带权图
         - [图的表示：如何存储微博、微信等社交网络中的好友关系？](https://time.geekbang.org/column/article/70537)
 
@@ -51,7 +51,7 @@
 - 递归
 	- [递归：如何用三行代码找到“最终推荐人”？](https://time.geekbang.org/column/article/41440)
 	- [递归树：如何借助树来求解递归算法的时间复杂度？](https://time.geekbang.org/column/article/69388)
-- 查找
+- [查找](./Search)
 	- 二分查找
 		- [二分查找（上）：如何用最省内存的方式实现快速查找功能？](https://time.geekbang.org/column/article/42520)
 		- [二分查找（下）：如何快速定位IP对应的省份地址？](https://time.geekbang.org/column/article/42733)
