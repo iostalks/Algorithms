@@ -1,8 +1,10 @@
 # Sqrt(x) （x 的平方根）
 
-LeetCode 69
-[English](https://leetcode.com/problems/sqrtx/)
-[中文](https://leetcode-cn.com/problems/sqrtx/)
+**LeetCode 69**
+
+- [英文版](https://leetcode.com/problems/sqrtx/)
+
+- [中文版](https://leetcode-cn.com/problems/sqrtx/)
 
 ## 题目
 实现 int sqrt(int x) 函数。

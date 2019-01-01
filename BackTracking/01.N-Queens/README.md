@@ -1,7 +1,10 @@
 # N-Queens（N 皇后）
-LeetCode 51
-[English](https://leetcode.com/problems/n-queens/)
-[中文](https://leetcode-cn.com/problems/n-queens/)
+
+**LeetCode 51**
+
+- [英文版](https://leetcode.com/problems/n-queens/)
+
+- [中文版](https://leetcode-cn.com/problems/n-queens/)
 
 ## 题目
 n 皇后问题研究的是如何将 n 个皇后放置在 n×n 的棋盘上，并且使皇后彼此之间不能相互攻击。

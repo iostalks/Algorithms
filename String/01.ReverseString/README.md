@@ -1,8 +1,10 @@
 # Reverse String （反转字符串）
 
-LeetCode 334
-[English](https://leetcode.com/problems/reverse-string/)
-[中文](https://leetcode-cn.com/problems/reverse-string/)
+**LeetCode 334**
+
+- [英文版](https://leetcode.com/problems/reverse-string/)
+
+- [中文版](https://leetcode-cn.com/problems/reverse-string/)
 
 ## 题目
 编写一个函数，其作用是将输入的字符串反转过来。
