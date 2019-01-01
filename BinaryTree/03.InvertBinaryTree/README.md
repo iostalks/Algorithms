@@ -1,7 +1,10 @@
 # Invert Binary Tree（翻转二叉树）
-LeetCode 226
-[English](https://leetcode.com/problems/invert-binary-tree/)
-[中文](https://leetcode-cn.com/problems/invert-binary-tree/)
+
+**LeetCode 226**
+
+- [英文版](https://leetcode.com/problems/invert-binary-tree/)
+
+- [中文版](https://leetcode-cn.com/problems/invert-binary-tree/)
 
 ## 题目
 翻转一棵二叉树。

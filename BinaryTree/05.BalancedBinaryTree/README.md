@@ -1,7 +1,10 @@
 # Balanced Binary Tree（平衡二叉树）
-LeetCode 110
-[English](https://leetcode.com/problems/balanced-binary-tree/)
-[中文](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+**LeetCode 110**
+
+- [英文版](https://leetcode.com/problems/balanced-binary-tree/)
+
+- [中文版](https://leetcode-cn.com/problems/balanced-binary-tree/)
 
 ## 题目
 给定一个二叉树，判断它是否是高度平衡的二叉树。

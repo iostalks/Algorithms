@@ -1,7 +1,10 @@
 # Convert Sorted List to Binary Search Tree（有序链表转换二叉查找树）
-LeetCode 109
-[English](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
-[中文](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+**LeetCode 109**
+
+- [英文版](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+- [中文版](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 
 ## 题目
 

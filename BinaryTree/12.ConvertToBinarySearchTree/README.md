@@ -1,7 +1,10 @@
 # Convert Sorted Array to Binary Search Tree（将有序数组转换为二叉搜索树）
-LeetCode 108
-[English](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-[中文](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+**LeetCode 108**
+
+- [英文版](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+
+- [中文版](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
 
 ## 题目
 将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树。
