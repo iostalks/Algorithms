@@ -1,5 +1,7 @@
 # Algorithms
 
+![Image](./banner.png)
+
 ## [《数据结构与算法之美》](http://t.cn/EvWJWn4)专栏导航
 
 ### 数据结构
