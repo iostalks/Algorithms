@@ -1,7 +1,10 @@
 # Flatten Binary Tree to Linked List（二叉树展开为链表）
-LeetCode 114
-[English](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
-[中文](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
+
+**LeetCode 114**
+
+- [英文版](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+- [中文版](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)
 
 ## 题目
 给定一个二叉树，原地将它展开为链表。

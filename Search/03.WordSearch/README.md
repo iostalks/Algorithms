@@ -1,7 +1,9 @@
 # Word Search（单词搜索）
-LeetCode 79
-[English](https://leetcode.com/problems/word-search/)
-[中文](https://leetcode-cn.com/problems/word-search/)
+
+**LeetCode 79**
+
+- [英文版](https://leetcode.com/problems/word-search/)
+- [中文版](https://leetcode-cn.com/problems/word-search/)
 
 ## 题目
 给定一个二维网格和一个单词，找出该单词是否存在于网格中。

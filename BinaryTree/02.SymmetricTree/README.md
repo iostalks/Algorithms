@@ -1,7 +1,10 @@
 # Symmetric Tree （对称二叉树）
-LeetCode 101
-[English](https://leetcode.com/problems/symmetric-tree/)
-[中文](https://leetcode-cn.com/problems/symmetric-tree/)
+
+**LeetCode 101**
+
+- [英文版](https://leetcode.com/problems/symmetric-tree/)
+
+- [中文版](https://leetcode-cn.com/problems/symmetric-tree/)
 
 ## 题目
 给定一个二叉树，检查它是否是镜像对称的。

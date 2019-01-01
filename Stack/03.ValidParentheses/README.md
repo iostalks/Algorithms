@@ -1,7 +1,10 @@
 # Valid Parentheses（有效的括号）
-LeetCode 20
-[English](https://leetcode.com/problems/valid-parentheses/)
-[中文](https://leetcode-cn.com/problems/valid-parentheses/)
+
+**LeetCode 20**
+
+- [英文版](https://leetcode.com/problems/valid-parentheses/)
+
+- [中文版](https://leetcode-cn.com/problems/valid-parentheses/)
 
 ## 题目
 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。

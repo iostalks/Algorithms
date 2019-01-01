@@ -1,7 +1,10 @@
 # Valid Sudoku（有效的数独）
-LeetCode 36
-[English](https://leetcode.com/problems/valid-sudoku/)
-[中文](https://leetcode-cn.com/problems/valid-sudoku/)
+
+**LeetCode 36**
+
+- [英文版](https://leetcode.com/problems/valid-sudoku/)
+
+- [中文](https://leetcode-cn.com/problems/valid-sudoku/)
 
 ## 题目
 

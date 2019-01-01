@@ -1,7 +1,10 @@
 # Search in Rotated Sorted Array（搜索旋转排序数组）
-LeetCode 33
-[English](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-[中文](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
+
+**LeetCode 33**
+
+- [英文版](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+- [中文版](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
 
 ## 题目
 假设按照升序排序的数组在预先未知的某个点上进行了旋转。

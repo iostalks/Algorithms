@@ -1,7 +1,10 @@
 # Search a 2D Matrix（搜索二维矩阵）
-LeetCode 74
-[English](https://leetcode.com/problems/search-a-2d-matrix/)
-[中文](https://leetcode-cn.com/problems/search-a-2d-matrix/)
+
+**LeetCode 74**
+
+- [英文版](https://leetcode.com/problems/search-a-2d-matrix/)
+
+- [中文版](https://leetcode-cn.com/problems/search-a-2d-matrix/)
 
 ## 题目
 编写一个高效的算法来判断 m x n 矩阵中，是否存在一个目标值。该矩阵具有如下特性：

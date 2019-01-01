@@ -1,6 +1,6 @@
-# Maximum Product Subarray
+# Maximum Product Subarray（乘积最大子序列）
 
-LeetCode 152
+**LeetCode 152**
 
 - [英文版](https://leetcode.com/problems/maximum-product-subarray/)
 

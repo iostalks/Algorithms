@@ -1,7 +1,10 @@
-# Reverse Linked List
-LeetCode 206
-[English](https://leetcode.com/problems/reverse-linked-list/)
-[中文](https://leetcode-cn.com/problems/reverse-linked-list/)
+# Reverse Linked List（反转链表）
+
+** LeetCode 206**
+
+- [英文版](https://leetcode.com/problems/reverse-linked-list/)
+
+- [中文版](https://leetcode-cn.com/problems/reverse-linked-list/)
 
 ## 题目
 反转一个单链表。

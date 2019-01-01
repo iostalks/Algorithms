@@ -1,7 +1,10 @@
-# Linked List Cycle I
-LeetCode 142
-[English](https://leetcode.com/problems/linked-list-cycle/)
-[中文](https://leetcode-cn.com/problems/linked-list-cycle/)
+# Linked List Cycle I（环形链表）
+
+**LeetCode 142**
+
+- [英文版](https://leetcode.com/problems/linked-list-cycle/)
+
+- [中文版](https://leetcode-cn.com/problems/linked-list-cycle/)
 
 ## 题目
 给定一个链表，判断链表中是否有环。

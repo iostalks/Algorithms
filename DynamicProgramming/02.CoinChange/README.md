@@ -1,6 +1,6 @@
 # Coin Change （零钱兑换）
 
-LeetCode 322
+**LeetCode 322**
 
 - [英文版](https://leetcode.com/problems/coin-change/)
 

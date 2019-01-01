@@ -1,8 +1,9 @@
 # String to Integer (atoi)（字符串转换整数 (atoi)）
 
-LeetCode 8
-[English](https://leetcode.com/problems/string-to-integer-atoi/)
-[中文](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+**LeetCode 8**
+
+- [英文版](https://leetcode.com/problems/string-to-integer-atoi/)
+- [中文版](https://leetcode-cn.com/problems/string-to-integer-atoi/)
 
 ## 题目
 请你来实现一个 atoi 函数，使其能将字符串转换成整数。

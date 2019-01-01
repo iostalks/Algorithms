@@ -1,7 +1,10 @@
-# Find All Duplicates in an Array
-LeetCode 442
-[English](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-[中文](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
+# Find All Duplicates in an Array（数组中重复的数据）
+
+**LeetCode 442**
+
+- [英文版](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+- [中文版](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 
 ## 题目
 给定一个整数数组 a，其中1 ≤ a[i] ≤ n （n为数组长度）, 其中有些元素出现两次而其他元素出现一次。

@@ -1,7 +1,9 @@
 # Validate Binary Search Tree（验证二叉查找树）
-LeetCode 98
-[English](https://leetcode.com/problems/validate-binary-search-tree/)
-[中文](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+
+**LeetCode 98**
+
+- [英文版](https://leetcode.com/problems/validate-binary-search-tree/)
+- [中文版](https://leetcode-cn.com/problems/validate-binary-search-tree/)
 
 ## 题目
 给定一个二叉树，判断其是否是一个有效的二叉搜索树。

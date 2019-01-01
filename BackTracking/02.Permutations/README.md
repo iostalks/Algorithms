@@ -1,6 +1,6 @@
 # Permutations （全排列）
 
-LeetCode 46
+**LeetCode 46**
 
 - [英文版](https://leetcode.com/problems/permutations/)
 

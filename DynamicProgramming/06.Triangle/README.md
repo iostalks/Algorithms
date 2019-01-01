@@ -1,6 +1,6 @@
 # Triangle（三角形最小路径和）
 
-LeetCode 120
+**LeetCode 120**
 
 - [英文版](https://leetcode.com/problems/triangle/)
 

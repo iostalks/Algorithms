@@ -1,7 +1,10 @@
-# Merge Sorted Array
-LeetCode 88
-[English](https://leetcode.com/problems/merge-sorted-array/)
-[中文](https://leetcode-cn.com/problems/merge-sorted-array/)
+# Merge Sorted Array（合并两个有序数组）
+
+**LeetCode 88**
+
+- [英文版](https://leetcode.com/problems/merge-sorted-array/)
+
+- [中文版](https://leetcode-cn.com/problems/merge-sorted-array/)
 
 ## 题目
 给定两个有序整数数组 nums1 和 nums2，将 nums2 合并到 nums1 中，使得 num1 成为一个有序数组。

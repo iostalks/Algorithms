@@ -1,7 +1,10 @@
 # Maximum Depth of Binary Tree（二叉树的最大深度）
-LeetCode 104
-[English](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-[中文](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+
+**LeetCode 104**
+
+- [英文版](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+- [中文版](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
 ## 题目
 给定一个二叉树，找出其最大深度。

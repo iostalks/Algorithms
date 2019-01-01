@@ -1,10 +1,10 @@
 # 01 Matrix（01 矩阵）
 
-LeetCode 542
+**LeetCode 542**
 
 - [英文版](https://leetcode.com/problems/01-matrix/)
 
-- [中文版](https://leetcode.com/problems/01-matrix/)
+- [中文版](https://leetcode-cn.com/problems/01-matrix/)
 
 ## 题目
 给定一个由 0 和 1 组成的矩阵，找出每个元素到最近的 0 的距离。

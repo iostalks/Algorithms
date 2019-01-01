@@ -1,7 +1,9 @@
-# Majority Element
-LeetCode 169
-[English](https://leetcode.com/problems/majority-element/)
-[中文](https://leetcode-cn.com/problems/majority-element/)
+# Majority Element（求众数）
+**LeetCode 169**
+
+- [英文版](https://leetcode.com/problems/majority-element/)
+
+- [中文版](https://leetcode-cn.com/problems/majority-element/)
 
 ## 题目
 给定一个大小为 n 的数组，找到其中的众数。众数是指在数组中出现次数大于 ⌊ n/2 ⌋ 的元素。

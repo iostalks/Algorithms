@@ -1,6 +1,6 @@
 # Sliding Window Maximum（滑动窗口最大值）
 
-LeetCode 239
+**LeetCode 239**
 
 - [英文版](https://leetcode.com/problems/sliding-window-maximum/)
 

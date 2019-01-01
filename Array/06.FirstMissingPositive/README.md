@@ -1,7 +1,10 @@
-# First Missing Positive
-LeetCode 41
-[English](https://leetcode.com/problems/first-missing-positive/)
-[中文](https://leetcode-cn.com/problems/first-missing-positive/)
+# First Missing Positive（缺失的第一个正数）
+
+**LeetCode 41**
+
+- [英文版](https://leetcode.com/problems/first-missing-positive/)
+
+- [中文版](https://leetcode-cn.com/problems/first-missing-positive/)
 
 ## 题目
 给定一个未排序的整数数组，找出其中没有出现的最小的正整数。
