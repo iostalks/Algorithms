@@ -1,7 +1,9 @@
 # Two Sum
-LeetCode 1
-[English](https://leetcode.com/problems/two-sum/)
-[中文](https://leetcode-cn.com/problems/two-sum/)
+**LeetCode 1**
+
+- [英文版](https://leetcode.com/problems/two-sum/)
+
+- [中文版](https://leetcode-cn.com/problems/two-sum/)
 
 ## 题目
 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的那*两个*整数，并返回他们的数组下标。
