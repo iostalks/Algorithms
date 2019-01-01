@@ -1,7 +1,10 @@
-# Merge Two Sorted Lists
-LeetCode 21
-[English](https://leetcode.com/problems/merge-two-sorted-lists/)
-[中文](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+# Merge Two Sorted Lists（合并两个有序链表）
+
+**LeetCode 21**
+
+- [英文版](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+- [中文版](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
 
 ## 题目
 将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。

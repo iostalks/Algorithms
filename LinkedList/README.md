@@ -10,4 +10,4 @@
 
 [05. Reverse Nodes in k-Group（以 k 为一组反转链表）](./05.ReverseNodesKGroup)
 
-[06. Merge k Sorted Lists（合并K个排序链表）](./06.MergeKSortedLists)
+[06. Merge k Sorted Lists（合并 k 个排序链表）](./06.MergeKSortedLists)

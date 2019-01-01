@@ -1,7 +1,10 @@
 # Reverse Nodes in k-Group（k 个一组翻转链表）
-LeetCode 25
-[English](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-[中文](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
+
+**LeetCode 25**
+
+- [英文版](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+
+- [中文版](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
 ## 题目
 给出一个链表，每 k 个节点一组进行翻转，并返回翻转后的链表。
