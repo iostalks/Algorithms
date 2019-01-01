@@ -1,7 +1,10 @@
 # Design Circular Deque（设计一个双端队列）
-LeetCode 641
-[English](https://leetcode.com/problems/design-circular-deque/)
-[中文](https://leetcode-cn.com/problems/design-circular-deque/)
+
+**LeetCode 641**
+
+- [英文版](https://leetcode.com/problems/design-circular-deque/)
+
+- [中文版](https://leetcode-cn.com/problems/design-circular-deque/)
 
 ## 题目
 

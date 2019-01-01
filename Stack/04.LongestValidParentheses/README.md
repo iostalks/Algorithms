@@ -1,7 +1,10 @@
 # Longest Valid Parentheses（最长有效括号）
-LeetCode 32
-[English](https://leetcode.com/problems/longest-valid-parentheses/)
-[中文](https://leetcode-cn.com/problems/longest-valid-parentheses/)
+
+**LeetCode 32**
+
+- [英文版](https://leetcode.com/problems/longest-valid-parentheses/)
+
+- [中文版](https://leetcode-cn.com/problems/longest-valid-parentheses/)
 
 ## 题目
 给定一个只包含 '(' 和 ')' 的字符串，找出最长的包含有效括号的子串的长度。
