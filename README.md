@@ -1,6 +1,6 @@
 ![Image](./banner.png)
 
-# Algorithms
+![Image](https://img.shields.io/badge/language-muti-brightgreen.svg) ![Image](https://img.shields.io/badge/leetcode-50%2B-orange.svg)
 
 ## [《数据结构与算法之美》](http://t.cn/EvWJWn4)专栏导航
 
