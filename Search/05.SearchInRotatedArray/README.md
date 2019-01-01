@@ -1,4 +1,4 @@
-# Search in Rotated Sorted Array（）
+# Search in Rotated Sorted Array（搜索旋转排序数组）
 LeetCode 33
 [English](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 [中文](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)
