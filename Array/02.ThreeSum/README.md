@@ -1,4 +1,4 @@
-# Three Sum
+# Three Sum （三数之和）
 **LeetCode 15**
 
 - [英文版](https://leetcode.com/problems/3sum/)

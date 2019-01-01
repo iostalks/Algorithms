@@ -1,7 +1,10 @@
 # Single Number（数组中只出现一次的数）
-LeetCode 136
-[English](https://leetcode.com/problems/single-number/)
-[中文](https://leetcode-cn.com/problems/single-number/)
+
+**LeetCode 136**
+
+- [英文版](https://leetcode.com/problems/single-number/)
+
+- [中文版](https://leetcode-cn.com/problems/single-number/)
 
 ## 题目
 给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。

@@ -1,4 +1,4 @@
-# Two Sum
+# Two Sum（两数之和）
 **LeetCode 1**
 
 - [英文版](https://leetcode.com/problems/two-sum/)

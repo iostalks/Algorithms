@@ -1,7 +1,9 @@
-# Fizz Buzz
-LeetCode 412
-[English](https://leetcode.com/problems/fizz-buzz/)
-[中文](https://leetcode-cn.com/problems/fizz-buzz/)
+# Fizz Buzz（3 和 5 的倍数）
+**LeetCode 412**
+
+- [英文版](https://leetcode.com/problems/fizz-buzz/)
+
+- [中文版](https://leetcode-cn.com/problems/fizz-buzz/)
 
 ## 题目
 写一个程序，输出从 1 到 n 数字的字符串表示。
