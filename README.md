@@ -60,7 +60,7 @@
 - 哈希算法
 	- [哈希算法（上）：如何防止数据库中的用户信息被脱库？](https://time.geekbang.org/column/article/65312)
 	- [哈希算法（下）：哈希算法在分布式系统中有哪些应用？](https://time.geekbang.org/column/article/67388)
-- 字符串匹配
+- [字符串](./String)
 	- BF、RK 算法
 		- [字符串匹配基础（上）：如何借助哈希算法实现高效字符串匹配？](https://time.geekbang.org/column/article/71187)
 	- BM 算法
@@ -74,15 +74,10 @@
 - 算法思想
 	- 贪心算法
 		- [贪心算法：如何用贪心算法实现Huffman压缩编码？](https://time.geekbang.org/column/article/73188)
-    - 分治算法
+    - [分治算法](./DivideAndConquer)
         - [分治算法：谈一谈大规模计算框架MapReduce中的分治思想](https://time.geekbang.org/column/article/73503)
-	- 回溯算法
+	- [回溯算法](./BackTracking)
         - [回溯算法：从电影《蝴蝶效应》中学习回溯算法的核心思想](https://time.geekbang.org/column/article/74287)
-	- 动态规划
+	- [动态规划](./DynamicProgramming)
         - [初识动态规划：如何巧妙解决“双十一”购物时的凑单问题？](https://time.geekbang.org/column/article/74788)
-
-### 福利
-    - [不定期福利第一期 | 数据结构与算法学习书单](https://time.geekbang.org/column/article/40681)
-    - [不定期福利第二期 | 王争：羁绊前行的，不是肆虐的狂风，而是内心的迷茫](https://time.geekbang.org/column/article/69607)
-    - [不定期福利第三期 | 测一测你的算法阶段学习成果](https://time.geekbang.org/column/article/73786)
-    - [不定期福利第四期 | 刘超：我是怎么学习《数据结构与算法之美》的？](https://time.geekbang.org/column/article/75197)
+        - [动态规划理论：一篇文章带你彻底搞懂最优子结构、无后效性和重复子问题](https://time.geekbang.org/column/article/75702)
