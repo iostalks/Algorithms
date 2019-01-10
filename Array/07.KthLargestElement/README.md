@@ -27,7 +27,7 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+使用快速排序的思想
 </details>
 
 ## 代码实现
