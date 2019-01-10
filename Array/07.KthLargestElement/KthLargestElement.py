@@ -16,8 +16,10 @@ class Solution(object):
             while nums[left] > pvoit and left < right: left += 1
             # 右边略过比 pvoit 小的
             while nums[right] <= pvoit and left < right: right -= 1
+            # 否则交换左右元素
             nums[left], nums[right] = nums[right], nums[left]
 
+        # 把 pvoit 交换到中间
         nums[left], nums[origin_right] = nums[origin_right], nums[left]
         if k == left:
             return nums[left]
