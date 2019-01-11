@@ -88,3 +88,7 @@
 - [拓扑排序：如何确定代码源文件的编译依赖关系？](https://time.geekbang.org/column/article/76207)
 
 - [最短路径：地图软件是如何计算出最优出行路径的？](https://time.geekbang.org/column/article/76468)
+
+- [位图：如何实现网页爬虫中的URL去重功能？](https://time.geekbang.org/column/article/76827)
+
+- [概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？](https://time.geekbang.org/column/article/77142)
