@@ -92,3 +92,22 @@
 - [位图：如何实现网页爬虫中的URL去重功能？](https://time.geekbang.org/column/article/76827)
 
 - [概率统计：如何利用朴素贝叶斯算法过滤垃圾短信？](https://time.geekbang.org/column/article/77142)
+
+- [向量空间：如何实现一个简单的音乐推荐系统？](https://time.geekbang.org/column/article/77457)
+
+- [B+树：MySQL数据库索引是如何实现的？](https://time.geekbang.org/column/article/77830)
+
+- [搜索：如何用A`*`搜索算法实现游戏中的寻路功能？](https://time.geekbang.org/column/article/78175)
+
+- [索引：如何在海量数据中快速查找某个数据？](https://time.geekbang.org/column/article/78449)
+
+- [并行算法：如何利用并行处理提高算法的执行效率？](https://time.geekbang.org/column/article/78795)
+
+### 实战篇
+- [算法实战（一）：剖析Redis常用数据类型对应的数据结构](https://time.geekbang.org/column/article/79159)
+
+- [算法实战（二）：剖析搜索引擎背后的经典数据结构和算法](https://time.geekbang.org/column/article/79433)
+
+- [算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法](https://time.geekbang.org/column/article/79871)
+
+- [算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法](https://time.geekbang.org/column/article/80388)
