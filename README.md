@@ -111,3 +111,5 @@
 - [算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法](https://time.geekbang.org/column/article/79871)
 
 - [算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法](https://time.geekbang.org/column/article/80388)
+
+- [算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？](https://time.geekbang.org/column/article/80850)
