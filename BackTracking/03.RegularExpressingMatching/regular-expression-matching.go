@@ -24,15 +24,10 @@ func isMatch(s string, p string) bool {
 	result := false
 	result = result || isMatch(s, p[:len(p)-2])
 	patternChar := p[len(p)-2]
-
-	for i := len(s) - 1; i >= 0; i-- {
-		if patternChar == '.' || s[i] == patternChar {
-			result = result || isMatch(s[:i], p[:len(p)-2])
-		} else {
-			result = result || isMatch(s[:i+1], p[:len(p)-2])
-			break
-		}
+	if s != "" && (patternChar == '.' || s[len(s)-1] == patternChar) {
+		result = result || isMatch(s[:len(s)-1], p)
 	}
+
 	return result
 }
 
