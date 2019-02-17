@@ -18,3 +18,19 @@ var majorityElement = function(nums) {
 };
 
 // O(n) time, O(1) space
+
+const majorityElement2 = function(nums) {
+    if (!nums || nums.length <= 0) return;
+    let count = 0, cur = numbs[0];
+    for (let i = 1; i < nums.length; ++i) {
+        if (nums[i] === cur) {
+            count++;
+        } else {
+            count--;
+            if (count === 0) {
+                cur = nums[i+1];
+            }
+        }
+    }
+    return cur;
+}
