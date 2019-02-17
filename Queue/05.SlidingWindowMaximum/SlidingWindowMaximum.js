@@ -1,4 +1,4 @@
-/** O(n * k)
+/** O(n) 在元素大小分布均匀的情况下，这种解法可以认为复杂度是 O(n) 的
  * @param {number[]} nums
  * @param {number} k
  * @return {number[]}
