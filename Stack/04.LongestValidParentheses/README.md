@@ -24,7 +24,8 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+(((()))) 也是有效的
+使用栈
 </details>
 
 ## 代码实现
