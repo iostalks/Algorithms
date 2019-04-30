@@ -11,3 +11,7 @@
 [05. Climbing Stairs（爬楼梯）](./05.ClimbingStairs)
 
 [06. Triangle（三角形最小路径和）](./06.Triangle)
+
+[07. EditDistance（最短编辑距离](./07.EditDistance)
+
+[08. Longest Increating Subseque（最长子序列）](./LongestIncreasingSubsequence)
