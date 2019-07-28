@@ -29,6 +29,6 @@
 使用 major 变量记录众数，count 记录遇到 major +1，非 major -1，最终 count 会大于0，major 即代表众数。
 
 ## 代码实现
-| C | C++ | Java | Python | JavaScript | PHP |
-| :--: | :--: | :--: | :--: | :---: | :---: |
-| 🤔 | 🤔 | 🤔 | 🤔 | [😀](./MajorityElement.js) | 🤔 |
+| C | C++ | Java | Python | JavaScript | PHP | Go |
+| :--: | :--: | :--: | :--: | :---: | :---: | :---: |
+| 🤔 | [😀](./MajorityElement.cpp) | [😀](./MajorityElement.java) | 🤔 | [😀](./MajorityElement.js) | 🤔 | [😀](./majority_elements.go) |

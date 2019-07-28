@@ -27,4 +27,4 @@
 ## 代码实现
 | C | C++ | Java | Python | JavaScript | PHP |
 | :--: | :--: | :--: | :--: | :---: | :---: |
-| 🤔 | 🤔 | 🤔 | [😀](TwoSum.py) | [😀](TwoSum.js) | 🤔 |
+| 🤔 | [😀](TwoSum.cpp) | [😀](TwoSum.java) | [😀](TwoSum.py) | [😀](TwoSum.js) | 🤔 |

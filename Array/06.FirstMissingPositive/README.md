@@ -31,4 +31,4 @@
 ## 代码实现
 | C | C++ | Java | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | [😀](FirstMissingPositive.py) | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](FirstMissingPositive.cpp) | 🤔 | [😀](FirstMissingPositive.py) | 🤔 | 🤔 | 🤔 |
