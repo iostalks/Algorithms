@@ -28,4 +28,4 @@ nums2 = [2,5,6],       n = 3
 ## 代码实现
 | C | C++ | Java | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | [😀](MergeSortedArray.py) | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](MergeSortedArray.cpp) | 🤔 | [😀](MergeSortedArray.py) | 🤔 | 🤔 | 🤔 |
