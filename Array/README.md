@@ -14,7 +14,7 @@
 
 [07. Kth Largest Element in an Array（查找第K大的数）](./07.KthLargestElement)
 
-[08. Single Number（数组中只出现一次的数）](./08.SingleNnumber)
+[08. Single Number（数组中只出现一次的数）](./08.SingleNumber)
 
 [09. Find All Duplicates in an Array（数组中重复的数字）](./09.FindAllDuplicates)
 
