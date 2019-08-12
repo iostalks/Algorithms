@@ -39,12 +39,14 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+快慢指针找到相遇点；快指针指回链表头部，慢指针指向相遇点，每次将它们向前移动一步，直到再次相遇，相遇点就是环的入口。
+
+说明：
+
+设链表头部到环的入口长度为`a`，环的长度为`b`，环的入口到相遇点的长度为`c`：则`f=2s=s+nb`，`s=nb=a+c+(n-1)b`，`b=a+c`，即慢指针从相遇点继续前进`a`步就是环的入口。
 </details>
 
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./LinkedListCycle2.py) | 🤔 | 🤔 | 🤔 |
-
-完成 😀，待完成 🤔
+| 🤔 | [😀](./LinkedListCycle2.cpp) | 🤔 | 🤔 | 🤔 | [😀](./LinkedListCycle2.py) | 🤔 | 🤔 | 🤔 |

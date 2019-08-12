@@ -24,6 +24,4 @@
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./MergeSortedLists.py) | 🤔 | 🤔 | 🤔 |
-
-完成 😀，待完成 🤔
+| 🤔 | [😀](./MergeSortedLists.cpp) | 🤔 | 🤔 | 🤔 | [😀](./MergeSortedLists.py) | 🤔 | 🤔 | 🤔 |
