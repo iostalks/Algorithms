@@ -28,10 +28,12 @@ k 是一个正整数，它的值小于或等于链表的长度。如果节点总
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+
+用两个指针（prev、back）分别记录前驱后继，另外两个指针（begin、end）记录子链表首尾；子链表翻转后将其与`前面已翻转链表`和`后面未翻转链表`进行连接。
+
 </details>
 
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./ReverseNodesKGroup.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
