@@ -34,4 +34,4 @@
 
 | C | C++ | Java | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | [😀](KthLargestElement.py) | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](KthLargestElement.cpp) | 🤔 | [😀](KthLargestElement.py) | 🤔 | 🤔 | 🤔 |

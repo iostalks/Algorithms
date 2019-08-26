@@ -6,3 +6,8 @@ https://leetcode.com/problems/next-permutation/
 2. 在 k 下标的右侧查找比 nums[k] 大的，下标最大的数 nums[l];
 3. 交换 nums[l] 和 nums[k];
 4. 将 k 下标之后的元素，从小到大排序。
+
+## 代码实现
+| C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 🤔 | [😀](./NextPremutation.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./NextPremutation.js) | 🤔 | 🤔 |
