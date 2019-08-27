@@ -34,6 +34,7 @@ k 是一个正整数，它的值小于或等于链表的长度。如果节点总
 </details>
 
 ## 代码实现
-| C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
+| C | C++ | Java | Swift | Python | JavaScript | Go |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | [😀](./ReverseNodesKGroup.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./ReverseNodesKGroup.cpp) | 🤔 | 🤔 | 🤔 | [😀](./ReverseNodesKGroup.js)| 🤔 |
+
