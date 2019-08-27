@@ -22,11 +22,15 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+
+思路一：纯递归实现，每次从`lists`中找出`val`最小的节点，将其指针前进一步；
+
+思路二：分治思想，将问题划分为更小规模的子问题（[合并2个有序链表](../04.MergeSortedLists)）。
+
 </details>
 
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./MergeKSortedLists.cpp) | [😀](./MergeKSortedLists.java) | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
 
