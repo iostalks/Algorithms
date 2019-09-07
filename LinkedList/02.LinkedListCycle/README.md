@@ -39,11 +39,11 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+快慢指针，快指针每次前进两步，慢指针每次前进一步。如果链表中不存在环，则快指针先到达链表尾；若存在环，则快慢指针总会相遇。
 </details>
 
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./LinkedListCycle.py) | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./LinkedListCycle.cpp) | [😀](./LinkedListCycle.java) | 🤔 | 🤔 | [😀](./LinkedListCycle.py) | 🤔 | [😀](./linked_list_cycle.go) | 🤔 |
 
