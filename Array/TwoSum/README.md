@@ -21,10 +21,11 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-借助散列表存储访问过元素的值和下标，时间复杂度 O(n)。
+使用散列表，缓存访问过的元素和下标，遍历数组，查找缓存中是否存在元素和当前元素的和等于目标值。
+时间复杂度 O(n)。
 </details>
 
 ## 代码实现
-| C | C++ | Java | Python | JavaScript | PHP |
-| :--: | :--: | :--: | :--: | :---: | :---: |
-| 🤔 | [😀](TwoSum.cpp) | [😀](TwoSum.java) | [😀](TwoSum.py) | [😀](TwoSum.js) | 🤔 |
+| C++ | Java | Python | JS |
+| :--: | :--: | :--: | :---: |
+|[😀](TwoSum.cpp) | [😀](TwoSum.java) | [😀](TwoSum.py) | [😀](TwoSum.js) |
