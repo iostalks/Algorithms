@@ -29,12 +29,17 @@ k 是一个正整数，它的值小于或等于链表的长度。如果节点总
 <details>
 <summary>点击展开</summary>
 
-用两个指针（prev、back）分别记录前驱后继，另外两个指针（begin、end）记录子链表首尾；子链表翻转后将其与`前面已翻转链表`和`后面未翻转链表`进行连接。
+该题有两种解法，递归和迭代。
+
+递归：取前 k 个节点，进行翻转，如果不足 k 个，则不翻转。剩下的链表其实是题目的子问题，递归调用即可。将递归调用后的链表与前 k 个翻转的链表进行连接。连接后的结果返回，就是目标解。
+
+迭代：迭代的解法比递归的难。需要借助辅助节点。开始时辅助节点指向头节点。
+用两个指针（prev、back）分别记录前驱后继，另外两个指针（begin、end）记录子链表首尾；子链表翻转后将其与前面已翻转链表和后面未翻转链表进行连接。
 
 </details>
 
 ## 代码实现
-| C | C++ | Java | Swift | Python | JavaScript | Go |
+| C++ | Java | Swift | Python | JavaScript | Go |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | [😀](./ReverseNodesKGroup.cpp) | 🤔 | 🤔 | 🤔 | [😀](./ReverseNodesKGroup.js)| 🤔 |
+| [😀](./ReverseNodesKGroup.cpp) | 🤔 | 🤔 | 🤔 | [😀](./ReverseNodesKGroup.js)| 🤔 |
 
