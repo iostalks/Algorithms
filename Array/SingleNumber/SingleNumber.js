@@ -7,3 +7,8 @@ var singleNumber = function(nums) {
     nums.forEach((num) => { result ^= num; });
     return result;
 };
+
+// 方法二，使用 reduce
+var singleNumber = function(nums) {
+  return nums.reduce((res, ele) => res^ele , 0);
+}
