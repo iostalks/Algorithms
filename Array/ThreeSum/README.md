@@ -26,11 +26,10 @@
 2. 从小到大遍历排序的数组
 3. 在当前遍历下标的后面剩余数组中使用两边夹逼的方式查找两个数
 4. 如果这两个数与当前下标的数之和等于 0，则存入结果数组
-5. 否则继续查找
+5. 否则继续夹逼查找
 
 ## 代码实现
 
-| C | C++ | Java | Python | JavaScript | PHP | Go |
+| C++ | Java | Python | JavaScript | Go |
 | :--: | :--: | :--: | :--: | :---: | :---: | :---: |
-| 🤔 | [😀](ThreeSum.cpp) | [😀](ThreeSum.java) | [😀](ThreeSum.py) | 🤔 | 🤔 | [😀](three_sum.go) |
-
+| [😀](ThreeSum.cpp) | [😀](ThreeSum.java) | [😀](ThreeSum.py) | [😀](./ThreeSum.js) | [😀](three_sum.go) |
