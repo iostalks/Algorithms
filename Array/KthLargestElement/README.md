@@ -27,11 +27,22 @@
 ## 思路
 <details>
 <summary>点击展开</summary>
-使用快速排序的思想
+
+题中有个要点容易误解，目标值位于数组从大到小排序的第 k 下标，而不是去重后按元素值从大到小的序位；
+
+对于无序数组查找的场景，首先要想到的是二分查找，它的时间复杂度仅次于有序数组查找 O(n)。
+
+对于二分比较关键的优化点是，pvoit 的确定，会影响实际的效率，工业算法一般会随机一个下标。
+
+不过随机算法也有一定的开销，这题就直接用最右边的下标作为 pvoit 了。
+
+这像是快排的简化版本。
+
+二分查找是一种解法，另一个解法可以采用大顶堆，请自行尝试~
 </details>
 
 ## 代码实现
 
-| C | C++ | Java | Python | JavaScript | Go | PHP |
+| C++ | Java | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | [😀](KthLargestElement.cpp) | 🤔 | [😀](KthLargestElement.py) | 🤔 | 🤔 | 🤔 |
+| [😀](KthLargestElement.cpp) | 🤔 | [😀](KthLargestElement.py) | [😀](./index.js) | 🤔 | 🤔 |
