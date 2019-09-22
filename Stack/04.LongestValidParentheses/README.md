@@ -31,4 +31,4 @@
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./longestvalidparentheses.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./longestvalidparentheses.js) | 🤔 | 🤔 |
