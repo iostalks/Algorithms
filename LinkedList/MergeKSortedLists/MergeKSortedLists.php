@@ -15,7 +15,7 @@ class Solution
      * @param ListNode[] $lists
      * @return ListNode
      *暴力破解法
-     * 取出所有的数 排序 重新生成一个新的链表
+     * 取出所有的数 排序 重新生成一个新的链表e
      */
     function mergeKLists($lists)
     {
