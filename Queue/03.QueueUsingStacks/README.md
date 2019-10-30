@@ -35,5 +35,5 @@ queue.empty(); // 返回 false
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./implementQueueUsingStacks.hpp) | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
 

@@ -42,5 +42,5 @@
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./SlidingWindowMaximum.js) | 🤔 | 🤔 |
+| 🤔 | [😀](./SlidingWindowMaximum.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./SlidingWindowMaximum.js) | 🤔 | 🤔 |
 

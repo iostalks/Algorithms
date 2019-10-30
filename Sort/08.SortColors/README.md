@@ -24,11 +24,11 @@ LeetCode 75
 ## 思路
 <details>
 <summary>点击展开</summary>
-// TODO
+使用三个指针，分别指向当前元素、最右侧的0和最左侧的2；当前元素为0则与左侧的2交换，当前元素为2则与右侧的0交换。
 </details>
 
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
+| 🤔 | [😀](./sortColors.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 | 🤔 |
 

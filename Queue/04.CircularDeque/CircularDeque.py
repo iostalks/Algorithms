@@ -49,12 +49,12 @@ class MyCircularDeque(object):
         """
         if self.isEmpty():
             return False
-        self._data[self._front] = -1;
+        self._data[self._front] = -1
         self._front = (self._front - 1) % self._capacity
         self._size -= 1
         if self.isEmpty():
             self._rear = self._front
-        return True;
+        return True
 
     def deleteLast(self):
         """
@@ -65,7 +65,7 @@ class MyCircularDeque(object):
             return False
         self._data[self._rear] = -1
         self._rear = (self._rear + 1) % self._capacity
-        self._size -= 1;
+        self._size -= 1
         if self.isEmpty():
             self._front = self._rear
         return True
@@ -97,5 +97,5 @@ class MyCircularDeque(object):
         Checks whether the circular deque is full or not.
         :rtype: bool
         """
-        return self._size == self._capacity;
+        return self._size == self._capacity
 
