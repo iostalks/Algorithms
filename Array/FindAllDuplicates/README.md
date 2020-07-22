@@ -31,5 +31,5 @@
 ## 代码实现
 | C | C++ | Java | Objective-C | Swift | Python | JavaScript | Go | PHP |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 🤔 | [😀](./FindAllDuplicates.cpp) | 🤔 | 🤔 | 🤔 | 🤔 | [😀](./FindAllDuplicates.js) | 🤔 | 🤔 |
+| 🤔 | [😀](./FindAllDuplicates.cpp) | 🤔 | 🤔 | 🤔 | [😀](./FindAllDuplicates.py) | [😀](./FindAllDuplicates.js) | 🤔 | 🤔 |
 
